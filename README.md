@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mircea Ungureanu, an Automotive Engineer turned into Events Coordinator turned into Backpack Traveller turned into QA Automation Tester
+- 👋 Hi, I’m Mircea, an Automotive Engineer turned into Events Coordinator turned into Backpack Traveller turned into QA Automation Tester
   
 - 🌱 I have a certification as an Automation Tester with Python and Selenium 
 - 👀 I am on a continuous development in the area of Automation Testing Frameworks, API Testing and Databases 
