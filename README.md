@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Mircea, an Automotive Engineer turned into Events Coordinator turned into Backpack Traveller turned into QA Automation Tester
   
-- 🌱 I have a certification as an Automation Tester with Python and Selenium 
+- 🌱 I have recently acquired a certification in Python Programming and Automation Testing with Selenium Webdriver
 - 👀 I am on a continuous development in the area of Automation Testing Frameworks, API Testing and Databases 
-- 💞️ I’m looking to collaborate either as a paid intern or as a full-time employee
+- 💞️ I’m looking to collaborate either as a paid intern or as a full-time junior employee
 
   
 - 📫 How to reach me: +40 741 286 955  or  mircea.ungureanu89@gmail.com
