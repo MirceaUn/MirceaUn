@@ -20,11 +20,11 @@ Email: mircea.ungureanu89@gmail.com
 
 My experience (which can be seen in my uploaded repositories):
 
-- Fundamentals of Python Programming
+- General Programming Concepts with Python
 - Software Testing with Selenium Webdriver (using the BDD Framework, Unit Test Framework)
 - API Testing with Postman and PyCharm
 - Manual Testing
-- Basic work with databases
+- Working with databases
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
