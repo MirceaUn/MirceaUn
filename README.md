@@ -1,13 +1,32 @@
-- 👋 Hi, I’m Mircea, an Automotive Engineer turned into Events Coordinator turned into Backpack Traveller turned into QA Automation Tester
-  
-- 🌱 I have recently acquired a certification in Python Programming and Automation Testing with Selenium Webdriver
-- 👀 I am on a continuous development in the area of Automation Testing Frameworks, API Testing and Databases 
-- 💞️ I’m looking to collaborate either as a paid intern or as a full-time junior employee
+About me:
 
-  
-- 📫 How to reach me: +40 741 286 955  or  mircea.ungureanu89@gmail.com
+I’m Mircea, an Automotive Engineer turned into Events Coordinator turned into Backpack Traveller. Between 2023 and 2024 I have traveled continuously for 9 months and now, upon my return home, I have decided that I desire a new professional challenge.
 
-- ⚡ Fun fact: When I'm not at the computer you'll find me in nature, admiring its beauties and catching sunrises and sunsets
+My professional background reveals my versatility and ease of adapting to different professional environments. I am an organized and attentive to detail person, but also a good communicator and a problem solver.
+
+Recently I graduated a training in Python Programming and Automation Testing and I am continuously studying in order to master the professional challenge of Software Testing.  
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+CV and contact details:
+
+CV: [Ungureanu Mircea - Resume.pdf](https://github.com/user-attachments/files/18211668/Ungureanu.Mircea.-.Resume.pdf)
+
+Phone: +40 741 286 955
+
+Email: mircea.ungureanu89@gmail.com
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+My experience (which can be seen in my uploaded repositories):
+
+- Fundamentals of Python Programming
+- Software Testing with Selenium Webdriver (using the BDD Framework, Unit Test Framework)
+- API Testing with Postman and PyCharm
+- Manual Testing
+- Basic work with databases
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <!---
 MirceaUn/MirceaUn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
