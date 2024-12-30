@@ -26,7 +26,7 @@ My experience (which can be seen in my uploaded repositories):
 - Manual Testing
 - Working with databases
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 <!---
 MirceaUn/MirceaUn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
