@@ -23,10 +23,11 @@ My experience (which can be seen in my uploaded repositories):
 - General Programming Concepts with Python
 - Software Testing with Selenium Webdriver (using the BDD Framework, Unit Test Framework)
 - API Testing with Postman and PyCharm
+- Basic DDL, DML and DQL operations with MySQL databases
 
 Right now I am also studying:
 - Manual Testing
-- Working with databases
+- Mobile Testing with Appium
 
 
 
