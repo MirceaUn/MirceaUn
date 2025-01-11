@@ -27,7 +27,7 @@ My experience (which can be seen in my uploaded repositories):
 
 Right now I am also studying:
 - Manual Testing
-- Mobile Testing with Appium
+- Mobile Testing with Appium & Python
 
 
 
