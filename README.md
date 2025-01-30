@@ -1,20 +1,14 @@
 About me:
 
-I’m Mircea, an Automotive Engineer turned into Events Coordinator turned into Backpack Traveller. Between 2023 and 2024 I have traveled continuously for 9 months and now, upon my return home, I have decided that I desire a new professional challenge.
+I’m Mircea, an Automotive Engineer turned into Events Coordinator turned into Backpack Traveller turned into Junior QA Automation Tester. Between 2023 and 2024 I have traveled continuously for 9 months and upon my return home I have decided that I desire a new professional challenge.
 
-My professional background reveals my versatility and ease of adapting to different professional environments. I am an organized and attentive to detail person, but also a good communicator and a problem solver.
+My professional background reveals my versatility and easiness of adapting to different professional environments. I am an organized and attentive to detail person, but also a good communicator and a problem solver. In addition to this I am confident in the help my education as an engineer will give me in mastering this new profession.
 
-Recently I graduated a training in Python Programming and Automation Testing and I am continuously studying in order to master the professional challenge of Software Testing.  
+Recently I graduated a QA Automation Testing course with IT Factory and I am continuously studying in order to learn and overcome the professional challenges of Software Testing.  
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+CV: [Ungureanu Mircea - Resume.pdf](https://github.com/user-attachments/files/18598384/Ungureanu.Mircea.-.Resume.pdf)
 
-CV and contact details:
-
-CV: [Ungureanu Mircea - Resume.pdf](https://github.com/user-attachments/files/18211668/Ungureanu.Mircea.-.Resume.pdf)
-
-Phone: +40 741 286 955
-
-Email: mircea.ungureanu89@gmail.com
+Phone: +40 741 286 955        Email: mircea.ungureanu89@gmail.com        
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
