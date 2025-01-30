@@ -8,20 +8,32 @@ Recently I graduated a QA Automation Testing course with IT Factory and I am con
 
 CV: [Ungureanu Mircea - Resume.pdf](https://github.com/user-attachments/files/18598384/Ungureanu.Mircea.-.Resume.pdf)
 
-Phone: +40 741 286 955        Email: mircea.ungureanu89@gmail.com        
+Phone: +40 741 286 955        
+Email: mircea.ungureanu89@gmail.com        
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
+My expertise:
+- Web automation and Android Mobile automation with Selenium Webdriver and Appium
+- Behavior Driven Development with Cucumber and Gherkin
+- Working with UnitTest Library and POM Design Pattern
+- Basic API testing 
+- Basic DDL, DML and DQL operations with databases
 
-My experience (which can be seen in my uploaded repositories):
+Tools I use:
+- Pycharm 
+- Postman
+- MySQL Workbench
+- Appium Inspector
+- Android Studio
 
-- General Programming Concepts with Python
-- Software Testing with Selenium Webdriver (using the BDD Framework, Unit Test Framework)
-- API Testing with Postman and PyCharm
-- Basic DDL, DML and DQL operations with MySQL databases
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Courses:
+[IT Factory - Python and Test Automation](https://www.itfactory.ro/python-automation/?_gl=1*121a5xv*_gcl_au*NzE1MDM3MDY2LjE3MzgyMjY2MzA.)
 
-Right now I am also studying:
-- Manual Testing
-- Mobile Testing with Appium & Python
+Webinars:
+IT Factory - Manual Testing
+IT Factory - SQL Databases
+Udemy - Appium and Selenium with Python From Basics to Framework
 
 
 
