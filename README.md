@@ -18,6 +18,7 @@ My expertise:
 - Working with UnitTest Library and POM Design Pattern
 - Basic API testing 
 - Basic DDL, DML and DQL operations with databases
+- Basic ADB (Android Debug Bridge) commands
 
 Tools I use:
 - Pycharm 
