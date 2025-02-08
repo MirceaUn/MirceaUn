@@ -31,9 +31,9 @@ Courses:
 [IT Factory - Python and Test Automation](https://www.itfactory.ro/python-automation/?_gl=1*121a5xv*_gcl_au*NzE1MDM3MDY2LjE3MzgyMjY2MzA.)
 
 Webinars:
-IT Factory - Manual Testing
-IT Factory - SQL Databases
-Udemy - Appium and Selenium with Python From Basics to Framework
+- IT Factory - Manual Testing
+- IT Factory - SQL Databases
+- Udemy - Appium and Selenium with Python From Basics to Framework
 
 
 
