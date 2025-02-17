@@ -16,6 +16,7 @@ My expertise:
 - Web automation and Android Mobile automation with Selenium Webdriver and Appium
 - Behavior Driven Development with Cucumber and Gherkin
 - Working with UnitTest Library and POM Design Pattern
+- Basic experience with JIRA as a test management and defect tracking tool
 - Basic API testing 
 - Basic DDL, DML and DQL operations with databases
 - Basic ADB (Android Debug Bridge) commands
